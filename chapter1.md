@@ -116,7 +116,7 @@ It turns out that class is one of the Python keywords. Keywords define the langu
 
 ---
 
-## Insert exercise title here
+## 1.4. Compound Interest
 
 ```yaml
 type: NormalExercise
@@ -144,6 +144,34 @@ Write a Python program that assigns the principal amount of 10000 to variable P,
 ```
 
 `@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## ??? Input ???
+
+```yaml
+type: MultipleChoiceExercise
+key: 3492f34381
+xp: 50
+```
+
+I am not sure if other chapters have material on input
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
 ```{python}
 
 ```
