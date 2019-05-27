@@ -89,3 +89,41 @@ Write a function called myPi that will return an approximation of PI (3.14159…
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 3462763919
+xp: 100
+```
+
+
+
+`@instructions`
+Write a function called myPi that will return an approximation of PI (3.14159…). Use the Madhava approximation.
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
