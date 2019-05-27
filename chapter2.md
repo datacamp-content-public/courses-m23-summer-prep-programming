@@ -79,42 +79,7 @@ A list can contain only integer items.
 
 ---
 
-## Insert exercise title here
-
-```yaml
-type: MultipleChoiceExercise
-key: 343abeb01f
-xp: 50
-```
-
-As with strings, the function len returns the length of a list (the number of items in the list). However, since lists can have items which are themselves lists, it important to note that len only returns the top-most length. In other words, sublists are considered to be a single item when counting the length of the list.
-
-Test out 
-alist =  ["hello", 2.0, 5, [10, 20]]
-print(len(alist))
-print(len(['spam!', 1, ['Brie', 'Roquefort', 'Pol le Veq'], [1, 2, 3]]))
-
-
-
-`@possible_answers`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## Insert exercise title here
+## 2.3. Lists len() m.c.
 
 ```yaml
 type: MultipleChoiceExercise
