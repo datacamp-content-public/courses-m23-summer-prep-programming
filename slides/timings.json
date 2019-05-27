@@ -1,0 +1,46 @@
+{
+  "slides/chapter_11_94f46183d0acda5d7b79e859116bd957.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.00019698030821223527,
+      "state": {
+        "indexh": 4,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.00019698030821223527,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.00019698030821223527,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.00019698030821223527,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": null,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    }
+  ]
+}
