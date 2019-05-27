@@ -245,3 +245,41 @@ Sum up all the even numbers in a list.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 9751b02f15
+xp: 100
+```
+
+
+
+`@instructions`
+Create a list containing 100 random integers between 0 and 1000 (use iteration, append, and the random module). Write a function called average that will take the list as a parameter and return the average.
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
