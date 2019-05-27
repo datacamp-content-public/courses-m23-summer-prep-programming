@@ -50,7 +50,7 @@ Starting with the list of the previous exercise, write Python statements to do t
 
 ---
 
-## Insert exercise title here
+## 2.2. True/False m.c.
 
 ```yaml
 type: MultipleChoiceExercise
@@ -63,6 +63,86 @@ A list can contain only integer items.
 `@possible_answers`
 - True
 - [False]
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 343abeb01f
+xp: 50
+```
+
+As with strings, the function len returns the length of a list (the number of items in the list). However, since lists can have items which are themselves lists, it important to note that len only returns the top-most length. In other words, sublists are considered to be a single item when counting the length of the list.
+
+Test out 
+alist =  ["hello", 2.0, 5, [10, 20]]
+print(len(alist))
+print(len(['spam!', 1, ['Brie', 'Roquefort', 'Pol le Veq'], [1, 2, 3]]))
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 5a928e03af
+xp: 50
+```
+
+As with strings, the function len returns the length of a list (the number of items in the list). However, since lists can have items which are themselves lists, it important to note that len only returns the top-most length. In other words, sublists are considered to be a single item when counting the length of the list.
+
+Find out the length of the following lists in the console!
+
+```
+alist =  ["hello", 2.0, 5, [10, 20]]
+print(len(alist))
+print(len(['spam!', 1, ['Brie','Pol le Veq'], [1, 2, 3]]))
+```
+
+**What is printed by the following statements?**
+```
+alist = [3, 67, "cat", 3.14, False]
+print(len(alist))
+```
+
+
+`@possible_answers`
+- 4
+- [5]
+- 6
 
 `@hint`
 

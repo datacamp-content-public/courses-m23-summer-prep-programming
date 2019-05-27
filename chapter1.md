@@ -116,7 +116,7 @@ It turns out that class is one of the Python keywords. Keywords define the langu
 
 ---
 
-## 1.4. Compound Interest
+## 1.4. Compound Interest ex.
 
 ```yaml
 type: NormalExercise
