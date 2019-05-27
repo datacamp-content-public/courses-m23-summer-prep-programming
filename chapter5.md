@@ -3,7 +3,7 @@ title: '5. Getting Started in Python'
 description: ""
 ---
 
-## Insert exercise title here
+## 5.1. Pi estimation ex.
 
 ```yaml
 type: NormalExercise

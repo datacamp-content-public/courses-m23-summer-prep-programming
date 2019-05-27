@@ -3,57 +3,6 @@ title: '3. Functions and Packages'
 description: ""
 ---
 
-## 3.1. Summing up in list ex.
-
-```yaml
-type: NormalExercise
-key: b4b29bbd3d
-xp: 100
-```
-
-
-
-`@instructions`
-Sum up all the negative numbers in a list.
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-import random
-
-def sumNegative(lst):
-    sum = 0
-    for e in lst:
-        if e < 0:
-            sum = sum + e
-    return sum
-
-lst = []
-for i in range(100):
-    lst.append(random.randrange(-1000, 1000))
-
-print(sumNegative(lst))
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
 ## 3.1. Pythogenrean Theorem ex.
 
 ```yaml
