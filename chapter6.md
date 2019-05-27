@@ -85,7 +85,7 @@ Now find out the following:
 
 ---
 
-## Insert exercise title here
+## 7.1. Plotting data
 
 ```yaml
 type: NormalExercise
