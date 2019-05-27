@@ -1,4 +1,7 @@
 title: M23 summer-prep-programming
-description: Course description goes here.
+description: >-
+  This course is created for Minerva Class of 2023 to prepare them academically
+  for Cornerstones. If you have any questions, please contact us at
+  summerprep@minerva.kgi.edu or in slack. We are here to support you! Rock it!
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
