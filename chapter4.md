@@ -81,6 +81,9 @@ print(number_of_cheap_products)
 
 `@solution`
 ```{python}
+import numpy as np
+# prices array is already loaded
+
 number_of_cheap_products =  len(prices[prices < 10])
 print(number_of_cheap_products)
 ```
