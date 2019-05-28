@@ -29,7 +29,7 @@ Which function should you use?
 - np.union(a,b)
 
 `@hint`
-Did you tried search online?
+Did you try to search online?
 
 `@pre_exercise_code`
 ```{python}
