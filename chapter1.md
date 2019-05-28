@@ -14,7 +14,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+
 
 `@instructions`
 Take the sentence: "All work and no play makes Jack a dull boy". 
@@ -125,10 +125,9 @@ xp: 100
 ```
 
 The formula for computing the final amount if one is earning compound interest is given on Wikipedia as ![Compound Interest](https://www.thecalculatorsite.com/images/compound-interest-formula-diagram.png)
-Write a Python program that assigns the principal amount of 10000 to variable P, assign to n the value 12, and assign to r the interest rate of 8% (0.08). Then have the program prompt the user for the number of years, t, that the money will be compounded for. Calculate and print the final amount after t years.
 
 `@instructions`
-
+Write a Python program that assigns the principal amount of 10000 to variable P, assign to n the value 12, and assign to r the interest rate of 8% (0.08). Then have the program prompt the user for the number of years, t, that the money will be compounded for. Calculate and print the final amount after t years.
 
 `@hint`
 
@@ -155,15 +154,15 @@ Write a Python program that assigns the principal amount of 10000 to variable P,
 
 ---
 
-## ??? Input ???
+## 1.5. Input
 
 ```yaml
 type: MultipleChoiceExercise
-key: 3492f34381
+key: 697c712407
 xp: 50
 ```
 
-I am not sure if other chapters have material on input
+
 
 `@possible_answers`
 
@@ -172,6 +171,59 @@ I am not sure if other chapters have material on input
 
 
 `@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 3d3195bb1d
+xp: 100
+```
+
+Sometimes we need a way to get input from the user. Luckily, in Python there is a built-in function to accomplish this task. As you might expect, it is called input.
+
+```
+n = input("Please enter your name: ")
+```
+The input function allows the user to provide a prompt string. When the function is evaluated, the prompt is shown. The user of the program can enter the name and press return. When this happens the text that has been entered is returned from the input function, and in this case assigned to the variable n. In the console, make sure you run this example a number of times and try some different names in the input box that appears.
+
+
+
+
+`@instructions`
+**What will you do to convert input value in _k_ to integer?**
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+n = input("Please enter your name: ")
+print("Hello", n)
+#It is very important to note that the input function returns a *string* value. 
+
+#Even if you asked the user to enter their age, you would get back a string like "17". It would be your job, as the #programmer, to convert that string into an int or a float, using the int or float converter functions we saw earlier.
+
+k = input('Enter your age:')
+#what to do to convert it to integer?
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
 ```{python}
 
 ```
