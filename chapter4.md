@@ -3,7 +3,7 @@ title: '4. Numpy'
 description: ""
 ---
 
-## Searching for function
+## 4.1. Searching for function ex.
 
 ```yaml
 type: MultipleChoiceExercise
@@ -46,7 +46,7 @@ b = np.array([5,6,7,8,9])
 
 ---
 
-## Counting elements
+## 4.2. Counting elements ex.
 
 ```yaml
 type: NormalExercise

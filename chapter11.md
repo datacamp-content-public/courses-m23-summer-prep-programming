@@ -1,9 +1,9 @@
 ---
-title: '11. Writing your own functions'
+title: '12. Writing your own functions'
 description: ""
 ---
 
-## 11.1. Summing up in list ex.
+## 12.1. Summing up in list ex.
 
 ```yaml
 type: NormalExercise
