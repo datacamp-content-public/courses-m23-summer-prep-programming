@@ -154,35 +154,7 @@ Write a Python program that assigns the principal amount of 10000 to variable P,
 
 ---
 
-## 1.5. Input
-
-```yaml
-type: MultipleChoiceExercise
-key: 697c712407
-xp: 50
-```
-
-
-
-`@possible_answers`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## Insert exercise title here
+## 1.5. input ex.
 
 ```yaml
 type: NormalExercise
@@ -208,6 +180,11 @@ The input function allows the user to provide a prompt string. When the function
 
 `@pre_exercise_code`
 ```{python}
+
+```
+
+`@sample_code`
+```{python}
 n = input("Please enter your name: ")
 print("Hello", n)
 #It is very important to note that the input function returns a *string* value. 
@@ -216,11 +193,6 @@ print("Hello", n)
 
 k = input('Enter your age:')
 #what to do to convert it to integer?
-```
-
-`@sample_code`
-```{python}
-
 ```
 
 `@solution`
