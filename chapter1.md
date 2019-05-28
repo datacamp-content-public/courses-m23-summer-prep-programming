@@ -62,7 +62,7 @@ class = "Computer Science 101"
 
 It turns out that class is one of the Python keywords. Keywords define the language’s syntax rules and structure, and they cannot be used as variable names. Python has thirty-something keywords.
 
-**True or False: the following is a legal variable name in Python: 
+**True or False: the following is a legal variable name in Python:** 
 ```
 A_good_grade_is_A+
 ```
