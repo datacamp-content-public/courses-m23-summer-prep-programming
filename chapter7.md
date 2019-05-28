@@ -11,7 +11,7 @@ key: bd365b4bcc
 xp: 100
 ```
 
-Imagine yourself working for a company, hired to analyze the user growth rate of the company. For an analysis, you are required to visualize the data and show whether the growth is linear, exponential, etc. 
+Imagine yourself working for a company, hired to analyze the user growth rate of the company. For an analysis, you are required to visualize the data and show whether the growth is linear, exponential, etc.
 
 `@instructions`
 Here is the sample data:

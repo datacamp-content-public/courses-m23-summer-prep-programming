@@ -11,7 +11,7 @@ key: 08fb6ad600
 xp: 100
 ```
 
-You are a the owner of the legendary “XX” car park. Some investors came in to offer you a deal but they first want to know some information, which could be shown with the help of pandas and python. How lucky they are that you actually do know Pandas! But first, import the car data from your park ("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/05_Merge/Auto_MPG/cars2.csv"). 
+You are a the owner of the legendary “XX” car park. Some investors came in to offer you a deal but they first want to know some information, which could be shown with the help of pandas and python. How lucky they are that you actually do know Pandas! But first, import the car data from your park ("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/05_Merge/Auto_MPG/cars2.csv").
 
 `@instructions`
 Now find the following:
@@ -44,7 +44,7 @@ Now find the following:
 
 ---
 
-## 6.2. Baby Boom ex. 
+## 6.2. Baby Boom ex.
 
 ```yaml
 type: NormalExercise
@@ -52,7 +52,7 @@ key: 0d4239c7e6
 xp: 100
 ```
 
-You work at the department that counts and records the baby names in a given year. You are bored, but your boss wants you to identify some statistics. Your boss told you to do it by hand, but you know pandas and python, which would help you to get finished with this task. The source for the baby statistics: ('https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/06_Stats/US_Baby_Names/US_Baby_Names_right.csv'). 
+You work at the department that counts and records the baby names in a given year. You are bored, but your boss wants you to identify some statistics. Your boss told you to do it by hand, but you know pandas and python, which would help you to get finished with this task. The source for the baby statistics: ('https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/06_Stats/US_Baby_Names/US_Baby_Names_right.csv').
 
 `@instructions`
 Now find out the following: 

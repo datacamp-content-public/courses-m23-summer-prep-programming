@@ -54,7 +54,7 @@ key: 3a5c1c0d76
 xp: 100
 ```
 
-Numpy arrays are more powerful than lists. There is large amounts of functions that can be used to perform special operations. 
+Numpy arrays are more powerful than lists. There is large amounts of functions that can be used to perform special operations.
 
 `@instructions`
 In this task, there is loaded huge array _prices_, which contains prices of all products in large store. Your task is to write code, which calculates, how many items in the store has price less than 10$.
