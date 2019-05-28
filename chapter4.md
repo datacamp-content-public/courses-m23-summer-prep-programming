@@ -60,7 +60,7 @@ Numpy arrays are more powerful than lists. There is large amounts of functions t
 In this task, there is loaded huge array _prices_, which contains prices of all products in large store. Your task is to write code, which calculates, how many items in the store has price less than 10$.
 
 `@hint`
-
+Try to re-watch the Numpy chapter.
 
 `@pre_exercise_code`
 ```{python}
