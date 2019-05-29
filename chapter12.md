@@ -3,7 +3,7 @@ title: '13. ACCUMULATOR PATTERN'
 description: ""
 ---
 
-## Insert exercise title here
+## Revisiting functions Theory!
 
 ```yaml
 type: NormalExercise
@@ -11,8 +11,18 @@ key: b4e726e6f0
 xp: 100
 ```
 
-TBD
-https://interactivepython.org/courselib/static/thinkcspy/Functions/TheAccumulatorPattern.html
+An assignment statement in a function creates a _local_ variable for the variable on the left hand side of the assignment operator. It is called local because this variable only exists _inside the function_ and you **cannot** use it outside. For example, consider the square function:
+```
+1   def square(x):
+2	    y = x * x
+3	    return y
+4	
+5	z = square(10)
+6	print(y)
+```
+Do you think the code will output any error message?? Try it yourself.
+
+Source: [here](https://interactivepython.org/courselib/static/thinkcspy/Functions/TheAccumulatorPattern.html)
 
 `@instructions`
 
@@ -27,7 +37,12 @@ https://interactivepython.org/courselib/static/thinkcspy/Functions/TheAccumulato
 
 `@sample_code`
 ```{python}
+def square(x):
+  y = x * x
+  return y
 
+z = square(10)
+print(y)
 ```
 
 `@solution`
