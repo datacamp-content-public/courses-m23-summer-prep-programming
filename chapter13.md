@@ -144,12 +144,23 @@ This [.csv file](https://doc-10-7s-docs.googleusercontent.com/docs/securesc/dm49
 
 ---
 
-## Insert exercise title here
+## factors(num)
 
 ```yaml
 type: NormalExercise
 key: 868c0d0eae
 xp: 100
+```
+
+Write a function called factors(num) that takes a number as a parameter and returns all of its factors (that is, a number that divides into another without a remainder)  in an ascending list , or the string ‘None’ otherwise. 
+You can use the test cases below to check whether your function is working properly:
+```
+>>> factors(6)
+Out: [1, 2, 3, 6]
+
+>>> factors(0)
+Out: None
+
 ```
 
 
@@ -159,6 +170,94 @@ xp: 100
 
 `@hint`
 
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## pig_game(players)
+
+```yaml
+type: NormalExercise
+key: 51d2ab8b10
+xp: 100
+```
+
+In this exercise, you will be using the random and matplotlib libraries in Python. Write a simulation of the Two-Dice Pig Game. The rules of the game are as follows: 
+There are at least 2 players;
+Each player rolls two standard dice. If neither shows a 1, their sum is added to the player’s total score, and the turn ends;
+If a single 1 is rolled, the player scores nothing, and the turn ends;
+If two 1s are rolled, the player’s entire score is lost, and the turn ends;
+Whoever accumulates 23 points first wins.
+If more than 1 player accumulates 23 points or more in the same turn, then the game ends in a tie, and all players with 23 points or more win.
+
+
+`@instructions`
+1) Write a function called pig_game(players) that inputs the number of players (the maximum number of players is 4) and simulates the game.
+
+2) Your program should produce a line graph that shows the players’ running scores after each turn. The plot should look similar to the one below:
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## pi_estimator()
+
+```yaml
+type: NormalExercise
+key: 5d1343e2f9
+xp: 100
+```
+
+Minervans love pi(es)! Help them estimate the value of pi using Python. Write a function called pi_estimator() that does not take any parameter and outputs your estimation of pi’s value as a single float number. 
+(Optional) To supplement the function, write a 150-word explanation (add it as a #comment) of why you think this is the best approach (i.e. is algorithmically efficient) to solving the problem. 
+
+
+`@instructions`
+
+
+`@hint`
+Hint:  (You are encouraged to come up with your own approach to this problem, but if needed, use the following hint.) 
+Imagine a circle contained within a square (this square is the smallest it could be while still fitting the circle inside). The circle’s center is located at [0, 0], and its radius has a value of 1. By generating random points and checking whether or not they are within the circle’s radius, you may count the total number of points in the circle. The ratio (num_inside_circle/all_points)*4 should help you find the pi value.
 
 `@pre_exercise_code`
 ```{python}
