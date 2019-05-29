@@ -1,5 +1,5 @@
 ---
-title: '5. Getting Started in Python'
+title: 'Getting Started in Python Exercises '
 description: ""
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '8. Dictionaries and Pandas'
+title: 'Dictionaries and Pandas Exercises '
 description: ""
 ---
 

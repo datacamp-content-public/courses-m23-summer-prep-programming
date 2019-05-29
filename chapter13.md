@@ -1,5 +1,5 @@
 ---
-title: '14. TRY OUT PRELIMINARY ASSESSMENT'
+title: 'FINISH: TRY OUT PRELIMINARY ASSESSMENT'
 description: 'Time to try whether you can tackle preliminary assessment 2019!'
 ---
 

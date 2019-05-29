@@ -1,5 +1,5 @@
 ---
-title: '7. Introduction to MAtplotlib'
+title: 'Introduction to Matplotlib Exercises '
 description: ""
 ---
 

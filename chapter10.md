@@ -1,5 +1,5 @@
 ---
-title: '10. Loops'
+title: 'Loops Exercises '
 description: ""
 ---
 

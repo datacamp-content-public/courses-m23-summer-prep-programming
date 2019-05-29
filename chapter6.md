@@ -1,5 +1,5 @@
 ---
-title: '6. Loading Data in Pandas'
+title: 'Loading Data in Pandas Exercises '
 description: ""
 ---
 

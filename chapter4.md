@@ -1,5 +1,5 @@
 ---
-title: '4. Numpy'
+title: 'Numpy Exercises '
 description: ""
 ---
 

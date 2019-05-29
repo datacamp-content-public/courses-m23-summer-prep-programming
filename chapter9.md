@@ -1,5 +1,5 @@
 ---
-title: '9. Logic, Control Flow and Filtering'
+title: 'Logic, Control Flow and Filtering Exercises '
 description: ""
 ---
 
@@ -82,7 +82,6 @@ Write a program that:
 
 `@solution`
 ```{python}
-
 num = int(input("Enter a number: "))
 mod = num % 2
 if mod > 0:

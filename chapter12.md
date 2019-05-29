@@ -1,5 +1,5 @@
 ---
-title: '13. ACCUMULATOR PATTERN'
+title: 'ACCUMULATOR PATTERN Theory + Exercises '
 description: ""
 ---
 

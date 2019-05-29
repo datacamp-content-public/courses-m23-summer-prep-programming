@@ -1,5 +1,5 @@
 ---
-title: '3. Functions and Packages'
+title: 'Functions and Packages Exercises '
 description: ""
 ---
 

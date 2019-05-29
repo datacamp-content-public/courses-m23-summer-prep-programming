@@ -1,5 +1,5 @@
 ---
-title: '2. Python Lists'
+title: 'Python Lists Exercises '
 description: ""
 ---
 

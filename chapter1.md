@@ -1,5 +1,5 @@
 ---
-title: '1. Python Basics'
+title: 'Python Basics Exercises '
 description: 'After completing the ​Python Basics Assignment - please do the following exercises to check your understanding.'
 free_preview: true
 ---
