@@ -111,6 +111,11 @@ To make the best decision in the shortest time, humans use different frameworks 
 
 The first exercise is part of your daily routine on Minerva. Weather in San Francisco is mostly without changes for weeks. But even slight change can influence location, where you will spend your day.
 
+![http://i64.tinypic.com/vio674.png](Decision Tree Diagram)
+
+
+![https://i64.tinypic.com/vio674.png](Decision Tree Diagram)s
+
 `@instructions`
 Based on weather you can go:
 
@@ -124,7 +129,6 @@ Rain:
 Storm:
 -Study in Res hall
 
-![http://i64.tinypic.com/vio674.png](Decision Tree Diagram)
 
 variable
 weather contains information about tomorrow´s forecast: "sunny", "rain", "storm". Based on data provided above, write a program that prints "Outside", "Res hall", "Cafe" based on content in variable weather.
