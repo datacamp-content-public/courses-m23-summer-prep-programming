@@ -170,7 +170,7 @@ What command correctly generates the sequence 2, 5, 8?
 
 ---
 
-## 10.5. Multiplication Table
+## 10.5. Multiplication Table ex.
 
 ```yaml
 type: NormalExercise
