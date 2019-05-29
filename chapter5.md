@@ -17,7 +17,8 @@ xp: 100
 Search on the internet for a way to calculate an approximation for pi. There are many that use simple arithmetic. Write a program to compute the approximation and then print that value as well as the value of math.pi from the math module.
 
 `@hint`
-
+Some methods to try!
+1) https://academo.org/demos/estimating-pi-monte-carlo/
 
 `@pre_exercise_code`
 ```{python}

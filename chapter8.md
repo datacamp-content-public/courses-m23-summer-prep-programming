@@ -11,8 +11,9 @@ key: d24c684f4a
 xp: 50
 ```
 
-I am not sure if we need any ex. at all?
-we may just delete this chapter if not needed
+Explore official Python Documentation - Dictionaries Topic[](https://docs.python.org/3/tutorial/datastructures.html#dictionaries). Use the console to experiment and #comments to brainstorm some ideas in what programs you can use dictionaries. 
+
+
 
 `@possible_answers`
 
