@@ -3,7 +3,7 @@ title: '8. Dictionaries and Pandas'
 description: ""
 ---
 
-## TBD
+## 8.1. Python Documentation Experimentation
 
 ```yaml
 type: MultipleChoiceExercise

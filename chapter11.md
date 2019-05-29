@@ -3,7 +3,7 @@ title: '12. Writing your own functions'
 description: ""
 ---
 
-## 12.1. Summing up in list ex.
+## 1. Summing up in list ex.
 
 ```yaml
 type: NormalExercise
@@ -187,82 +187,6 @@ Write a function called rot13 that uses the Caesar cipher to encrypt a message. 
 
 `@hint`
 Hint:Whenever you talk about things wrapping around its a good idea to think of modulo arithmetic.
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## List summing up ex.
-
-```yaml
-type: NormalExercise
-key: 6525edf3e6
-xp: 100
-```
-
-
-
-`@instructions`
-Sum up all the even numbers in a list.
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## List average ex.
-
-```yaml
-type: NormalExercise
-key: 9751b02f15
-xp: 100
-```
-
-
-
-`@instructions`
-Create a list containing 100 random integers between 0 and 1000 (use iteration, append, and the random module). Write a function called average that will take the list as a parameter and return the average.
-
-`@hint`
-
 
 `@pre_exercise_code`
 ```{python}

@@ -14,7 +14,7 @@ xp: 100
 
 
 `@instructions`
-Write a program that prints We like Python's turtles! 100 times.
+Write a program that prints "We are M23!"" 100 times.
 
 `@hint`
 
@@ -41,7 +41,7 @@ Write a program that prints We like Python's turtles! 100 times.
 
 ---
 
-## 10.2.
+## 10.2. Example -> elpmaxe ex.
 
 ```yaml
 type: NormalExercise
@@ -54,6 +54,8 @@ xp: 100
 `@instructions`
 Write a Python program that accepts a word from the user and reverse it.
 
+example -> elpmaxe
+
 `@hint`
 
 
@@ -79,24 +81,20 @@ Write a Python program that accepts a word from the user and reverse it.
 
 ---
 
-## 10.3.
+## 10.3. Range ex.
 
 ```yaml
 type: NormalExercise
-key: 885ec5ddf4
+key: d9e3dedb74
 xp: 100
 ```
 
+Python range() accepts an integer and returns a range object, which is nothing but a sequence of integers. Let’s understand how to use range() function with the help of simple examples.
 
+Study the code in the console to see how it can be used!
 
 `@instructions`
-Write a Python program that accepts a string and calculate the number of digits and letters.
-```
-Sample Data : Python 3.2
-Expected Output :
-Letters 6 
-Digits 2
-```
+
 
 `@hint`
 
@@ -108,6 +106,24 @@ Digits 2
 
 `@sample_code`
 ```{python}
+#first example 
+listexample = list(range(3))
+print(listexample)
+#Question: What happens if you provide a negative value? Try it below!
+ 
+
+#second example
+a = ['Mary', 'had', 'a', 'little', 'lamb']
+for i in range(len(a)):
+    print(i, a[i])
+    
+#third example    
+#what if you provide 2 or even 3 parameters to _range(PARAMETERS)_ instead of one?  
+#try it out! Print the lists  below
+list(range(1,7))
+list(range(1,7,3))
+list(range(-17,7, 2))
+
 
 ```
 
@@ -123,7 +139,38 @@ Digits 2
 
 ---
 
-## 10.4.
+## 10.4. Range m.c.
+
+```yaml
+type: MultipleChoiceExercise
+key: 20df05fcbe
+xp: 50
+```
+
+What command correctly generates the sequence 2, 5, 8?
+
+`@possible_answers`
+- range(2, 5, 8)
+- range(2, 8, 3)
+- [range(2, 10, 3)]
+- range(8, 1, -3)
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## 10.5. Multiplication Table
 
 ```yaml
 type: NormalExercise
@@ -167,6 +214,52 @@ Input a number: 6
 `@solution`
 ```{python}
 
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## 10.6 Month ex.
+
+```yaml
+type: NormalExercise
+key: 719f151d9a
+xp: 100
+```
+
+
+
+`@instructions`
+Write a program that uses a for loop to print
+```
+One of the months of the year is January
+One of the months of the year is February
+One of the months of the year is March
+```
+
+etc …
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+for amonth in ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'November', 'December']:
+    print("One of the months of the year is", amonth)
 ```
 
 `@sct`
