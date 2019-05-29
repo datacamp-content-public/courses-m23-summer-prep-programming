@@ -113,7 +113,6 @@ The first exercise is part of your daily routine on Minerva. Weather in San Fran
 
 ![https://cdn1.imggmi.com/uploads/2019/5/29/9b85df14a25542f40bbdb39b04909127-full.png](Decision Tree Diagram)
 
-
 `@instructions`
 Based on weather you can go:
 

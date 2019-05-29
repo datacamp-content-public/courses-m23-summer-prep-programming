@@ -105,8 +105,7 @@ key: 3066ed4162
 xp: 100
 ```
 
-This [.csv file](https://doc-10-7s-docs.googleusercontent.com/docs/securesc/dm497p5a4fh9b9tijedks110f4hv444a/m075v8cmpva7qvgqvba2mnlog26l06os/1559116800000/08552425112971249762/00142732287606330913/15UC8VgyWdHGHHFNg1gJ-2B7TCGhFihy7?e=download) contains the number of bikes that passed through Market Street in San Francisco each day in 2017. You should write a function bikes_to_mean() that downloads this data into your program and computes the average number of bikes that passed through Market Street daily in 2017. Your function should not receive arguments and should find the mean by iterating through the numbers in the second column of the file. You should check your result by comparing it to the mean returned by using the “mean” function in the statistics module. Ultimately, your function should return a tuple in the format (mean, boolean), in which boolean is a “True” or “False” value, depending on whether your mean matches the value obtained using the statistics module. 
-
+This [.csv file](https://doc-10-7s-docs.googleusercontent.com/docs/securesc/dm497p5a4fh9b9tijedks110f4hv444a/m075v8cmpva7qvgqvba2mnlog26l06os/1559116800000/08552425112971249762/00142732287606330913/15UC8VgyWdHGHHFNg1gJ-2B7TCGhFihy7?e=download) contains the number of bikes that passed through Market Street in San Francisco each day in 2017. You should write a function bikes_to_mean() that downloads this data into your program and computes the average number of bikes that passed through Market Street daily in 2017. Your function should not receive arguments and should find the mean by iterating through the numbers in the second column of the file. You should check your result by comparing it to the mean returned by using the “mean” function in the statistics module. Ultimately, your function should return a tuple in the format (mean, boolean), in which boolean is a “True” or “False” value, depending on whether your mean matches the value obtained using the statistics module.
 
 `@instructions`
 
@@ -163,8 +162,6 @@ Out: None
 
 ```
 
-
-
 `@instructions`
 
 
@@ -209,7 +206,6 @@ If two 1s are rolled, the player’s entire score is lost, and the turn ends;
 Whoever accumulates 23 points first wins.
 If more than 1 player accumulates 23 points or more in the same turn, then the game ends in a tie, and all players with 23 points or more win.
 
-
 `@instructions`
 1) Write a function called pig_game(players) that inputs the number of players (the maximum number of players is 4) and simulates the game.
 
@@ -249,8 +245,7 @@ xp: 100
 ```
 
 Minervans love pi(es)! Help them estimate the value of pi using Python. Write a function called pi_estimator() that does not take any parameter and outputs your estimation of pi’s value as a single float number. 
-(Optional) To supplement the function, write a 150-word explanation (add it as a #comment) of why you think this is the best approach (i.e. is algorithmically efficient) to solving the problem. 
-
+(Optional) To supplement the function, write a 150-word explanation (add it as a #comment) of why you think this is the best approach (i.e. is algorithmically efficient) to solving the problem.
 
 `@instructions`
 

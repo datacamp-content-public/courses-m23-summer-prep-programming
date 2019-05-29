@@ -119,8 +119,6 @@ In words we could say it this way. To square the value of n, we will repeat the 
 
 This pattern of iterating the updating of a variable is commonly referred to as the **accumulator pattern**. We refer to the variable as the accumulator. This pattern will come up over and over again. Remember that the key to making it work successfully is to be sure to initialize the variable before you start the iteration. Once inside the iteration, it is required that you update the accumulator.
 
-
-
 `@instructions`
 1) Study the code in the console! 
 

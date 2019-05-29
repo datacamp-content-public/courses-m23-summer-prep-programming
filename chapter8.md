@@ -11,9 +11,7 @@ key: d24c684f4a
 xp: 50
 ```
 
-Explore official Python Documentation - Dictionaries Topic [here](https://docs.python.org/3/tutorial/datastructures.html#dictionaries). Use the console to experiment and #comments to brainstorm some ideas in what programs you can use dictionaries. 
-
-
+Explore official Python Documentation - Dictionaries Topic [here](https://docs.python.org/3/tutorial/datastructures.html#dictionaries). Use the console to experiment and #comments to brainstorm some ideas in what programs you can use dictionaries.
 
 `@possible_answers`
 
