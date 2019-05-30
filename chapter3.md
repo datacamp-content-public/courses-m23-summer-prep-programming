@@ -42,7 +42,10 @@ print(len(alist))
 
 `@sct`
 ```{python}
+msg2 = "Try Again."
+msg3 = "That's correct!"
 
+Ex().has_chosen(correct=2, msgs = [msg2, msg3, msg2])
 ```
 
 ---
@@ -58,17 +61,18 @@ xp: 100
 Explore Python documentation [](https://docs.python.org/3/tutorial/datastructures.html) for more lists methods and experiment with some of them!
 
 `@instructions`
-1) Create a list called myList with the following six items: 76, 92.3, “hello”, True, 4, 76. Do it with both append and with concatenation, one item at a time.
+1) Create a list called myList with the following six items: 76, 92.3, “hello”, True, 4, 76. Do it with both append and with concatenation.
 
 2) With this created list, write Python statements to do the following:
 
 1. Append “apple” and 76 to the list.
 2. Insert the value “cat” at position 3.
 3. Insert the value 99 at the start of the list.
-4. Find the index of “hello”.
-5. Count the number of 76s in the list.
+4. Find and print the index of “hello”.
+5. Count and print the number of 76s in the list.
 6. Remove the first occurrence of 76 from the list.
 7. Remove True from the list using pop and index.
+8. Print the final list
 
 `@hint`
 
@@ -85,12 +89,24 @@ Explore Python documentation [](https://docs.python.org/3/tutorial/datastructure
 
 `@solution`
 ```{python}
+# First part
+myList = [76] + [92.3, "hello", True, 4]
+myList.append(76)
 
+#Second part
+myList.append("apple")
+myList = myList[:3] + "cat" + myList[3:]
+myList = [99] + myList
+print(myList.index("hello"))
+print(myList.count(76))
+del myList[1]
+myList.pop(myList.index(True))
+print(myList)
 ```
 
 `@sct`
 ```{python}
-
+Ex().check_object('myList').has_equal_value()
 ```
 
 ---
