@@ -18,10 +18,10 @@ Programming is a complex process. Since it is done by human beings, errors may o
 **Debugging is:**
 
 `@possible_answers`
-1. [tracking down programming errors and correcting them.]
-2. removing all the bugs from your house. 
-3. finding all the bugs in the program.
-4. fixing the bugs in the program.
+- [tracking down programming errors and correcting them.]
+- removing all the bugs from your house. 
+- finding all the bugs in the program.
+- fixing the bugs in the program.
 
 `@hint`
 
@@ -37,7 +37,7 @@ msg1 = "In context of programming, this is not correct."
 msg2 = "Try Again."
 msg3 = "That's correct!"
 
-Ex().has_chosen(correct=1 msgs = [msg3, msg1, msg2, msg2])
+Ex().has_chosen(correct=1, msgs = [msg3, msg1, msg2, msg2])
 ```
 
 ---
