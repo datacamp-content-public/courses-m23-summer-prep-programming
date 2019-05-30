@@ -115,7 +115,7 @@ Store each word in a separate variable, then print out the sentence on one line 
 
 `@sct`
 ```{python}
-
+Ex().has_output("All work and no play makes Jack a dull boy", pattern = False)
 ```
 
 ---
