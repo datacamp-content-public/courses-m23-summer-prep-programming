@@ -41,7 +41,13 @@ b = np.array([5,6,7,8,9])
 
 `@sct`
 ```{python}
+msg1 = "No, np.diff(...) takes diffrent arguments and does diffrent things."
+msg2 = "No, np.zeros(...) is generates array full of zeros. Try google more."
+msg3 = "That's correct!"
+msg4 = "No. Try google more, this function does not exist."
+msg5 = "No. Try read the documentation."
 
+Ex().has_chosen(correct=3, msgs = [msg1, msg2, msg3, msg4, msg5])
 ```
 
 ---

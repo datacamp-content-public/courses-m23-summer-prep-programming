@@ -33,7 +33,11 @@ Programming is a complex process. Since it is done by human beings, errors may o
 
 `@sct`
 ```{python}
+msg1 = "In context of programming, this is not correct."
+msg2 = "Try Again."
+msg3 = "That's correct!"
 
+Ex().has_chosen(correct=1 msgs = [msg3, msg1, msg2, msg2])
 ```
 
 ---
