@@ -110,7 +110,7 @@ To make the best decision in the shortest time, humans use different frameworks 
 
 The first exercise is part of your daily routine on Minerva. Weather in San Francisco is mostly without changes for weeks. But even slight change can influence location, where you will spend your day.
 
-![https://cdn1.imggmi.com/uploads/2019/5/29/9b85df14a25542f40bbdb39b04909127-full.png](Decision Tree Diagram)
+![Decision Tree Diagram](https://cdn1.imggmi.com/uploads/2019/5/29/9b85df14a25542f40bbdb39b04909127-full.png)
 
 `@instructions`
 Based on weather you can go:
