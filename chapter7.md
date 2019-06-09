@@ -30,8 +30,6 @@ Year Number of users
  
 ```
 
-
-
  How would you visualize it? Make sure you show the dates, label the axes, put a title, and make the graph beautiful!
 
 `@hint`

@@ -20,7 +20,11 @@ Now find the following:
 3. What is the most expensive car?
 
 `@hint`
-
+pd.read_csv("") can read csv files directly from the internet. 
+Try to run
+```
+data = pd.read_csv("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/05_Merge/Auto_MPG/cars2.csv")
+```
 
 `@pre_exercise_code`
 ```{python}
@@ -29,16 +33,35 @@ Now find the following:
 
 `@sample_code`
 ```{python}
+# Import Pandas
+import pandas as pd
 
+# Load csv file from the url into dataframe
+data = 
+
+# Show all columns
+data.info()
+
+# Your code part1
+cars_under_2000 = 
+
+# Your code part2
+
+# Your code part3
 ```
 
 `@solution`
 ```{python}
-
+import pandas as pd
+data = pd.read_csv("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/05_Merge/Auto_MPG/cars2.csv")
+cars_under_2000 = len(data[data.weight>2000])
 ```
 
 `@sct`
 ```{python}
+Ex().check_object('pd').has_equal_value()
+Ex().check_object('data').has_equal_value()
+Ex().check_object('cars_under_2000').has_equal_value()
 
 ```
 
@@ -75,10 +98,15 @@ Now find out the following:
 
 `@solution`
 ```{python}
+# Import Pandas
+import pandas as pd
 
+# Load csv file from the url into dataframe
+data = pd.read_csv("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/05_Merge/Auto_MPG/cars2.csv")
 ```
 
 `@sct`
 ```{python}
-
+Ex().check_object('pd').has_equal_value()
+Ex().check_object('data').has_equal_value()
 ```

@@ -149,5 +149,6 @@ print(hypotenuse)
 
 `@sct`
 ```{python}
-
+Ex().check_object('math').has_equal_value()
+Ex().has_equal_output()
 ```
