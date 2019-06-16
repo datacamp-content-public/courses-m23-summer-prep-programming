@@ -51,7 +51,7 @@ print(alist[2][0])
 ```
 
 `@hint`
-
+Indexes can be used to access list inside of other lists.
 
 `@possible_answers`
 1. 56
