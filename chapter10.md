@@ -266,3 +266,42 @@ for amonth in ['January', 'February', 'March', 'April', 'May', 'June', 'July', '
 ```{python}
 
 ```
+
+---
+
+## 10.7. Pi estimation
+
+```yaml
+type: NormalExercise
+key: 424d5ebf87
+xp: 100
+```
+
+
+
+`@instructions`
+Search on the internet for a way to calculate an approximation for pi. There are many that use simple arithmetic. Write a program to compute the approximation and then print that value as well as the value of math.pi from the math module.
+
+`@hint`
+Some methods to try!
+1) https://academo.org/demos/estimating-pi-monte-carlo/
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```

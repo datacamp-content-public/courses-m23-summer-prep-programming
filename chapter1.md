@@ -83,7 +83,7 @@ A_good_grade_is_A+
 
 ---
 
-## 1.3. Str into variable ex.
+## 1.3. Storing string into variable.
 
 ```yaml
 type: NormalExercise
@@ -100,7 +100,7 @@ Take the sentence: "All work and no play makes Jack a dull boy".
 Store each word in a separate variable, then print out the sentence on one line using print.
 
 `@hint`
-
+Do you know that function print(...) can take multiple arguments of any datatype? For example print("Hello","World") will print "Hello World". All arguments are automatically separated by space.
 
 `@pre_exercise_code`
 ```{python}
@@ -109,11 +109,30 @@ Store each word in a separate variable, then print out the sentence on one line 
 
 `@sample_code`
 ```{python}
+# Define variables
+word1 = "All"
+
+
+# Print the sentence
+
 
 ```
 
 `@solution`
 ```{python}
+# Define variables
+word1 = "All"
+word2 = "work"
+word3 = "and"
+word4 = "no"
+word5 = "play"
+word6 = "makes"
+word7 = "Jack"
+word8 = "a dull"
+word9 = "boy"
+
+# Print the sentence
+print(word1, word2, word3, word4, word5, word6, word7, word8, word9)
 
 ```
 
