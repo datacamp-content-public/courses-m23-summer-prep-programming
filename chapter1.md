@@ -157,7 +157,7 @@ The formula for computing the final amount if one is earning compound interest i
 Write a Python program that assigns the principal amount of 10000 to variable P, assigns to n the value 12, and assigns to r the interest rate of 8% (0.08). Then the program calculates and prints the final amounts after 1, 5 and 10 years. Calculate and print the final amount after t years.
 
 `@hint`
-
+Do not forget to define variables P, n, r at the beginning of your code for better coding experience and code readability.
 
 `@pre_exercise_code`
 ```{python}
