@@ -93,6 +93,8 @@ Now find out the following:
 
 `@sample_code`
 ```{python}
+# Import Pandas
+import pandas as pd
 
 ```
 

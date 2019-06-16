@@ -143,6 +143,8 @@ side1 = 3
 side2 = 4
 
 # print result
+
+
 ```
 
 `@solution`
