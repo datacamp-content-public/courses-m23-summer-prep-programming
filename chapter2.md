@@ -30,7 +30,7 @@ A list can contain only integer items.
 msg1 = "Lists are very usefull and they can contain nearly everything, even other lists."
 msg3 = "That's correct!"
 
-Ex().has_chosen(correct=2, msgs = [msg1, msg1)
+Ex().has_chosen(correct=2, msgs = [msg1, msg1])
 ```
 
 ---
