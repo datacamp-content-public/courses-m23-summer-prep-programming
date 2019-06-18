@@ -11,6 +11,7 @@ key: c4114ca86b
 xp: 50
 ```
 
+True or False?
 A list can contain only integer items.
 
 `@possible_answers`
