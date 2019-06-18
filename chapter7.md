@@ -13,6 +13,8 @@ xp: 100
 
 Imagine yourself working for a company, hired to analyze the user growth rate of the company. For an analysis, you are required to visualize the data and show whether the growth is linear, exponential, etc.
 
+If you have problems with importing the library, try no-cache version by changing url from https://**campus**.datacamp.com/... to https://**campus-no-cache**.datacamp.com/...
+
 `@instructions`
 Here is the sample data:
  
