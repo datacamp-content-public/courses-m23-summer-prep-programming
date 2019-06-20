@@ -95,7 +95,7 @@ myList.append(76)
 
 #Second part
 myList.append("apple")
-myList = myList[:3] + "cat" + myList[3:]
+myList = myList[:3] + ["cat"] + myList[3:]
 myList = [99] + myList
 print(myList.index("hello"))
 print(myList.count(76))
