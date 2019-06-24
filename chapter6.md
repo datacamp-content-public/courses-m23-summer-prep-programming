@@ -77,6 +77,8 @@ xp: 100
 
 You work at the department that counts and records the baby names in a given year. You are bored, but your boss wants you to identify some statistics. Your boss told you to do it by hand, but you know pandas and python, which would help you to get finished with this task. The source for the baby statistics: ('https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/06_Stats/US_Baby_Names/US_Baby_Names_right.csv').
 
+
+
 `@instructions`
 Now find out the following: 
 

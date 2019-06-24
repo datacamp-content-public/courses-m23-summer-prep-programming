@@ -66,13 +66,13 @@ years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]
 number_of_users = [43, 124, 400, 682, 793, 899, 977, 1201, 1534]
 
 # create vizualization
-plt.plot(years, number_of_user)
+plt.plot(years, number_of_users)
 
 # create labels and titles
 plt.title("Growth of the company between 2011 to 2019")
 plt.xlab("Year")
 plt.ylab("Number of users")
-plt.show()
+plt.show()rr
 ```
 
 `@sct`
