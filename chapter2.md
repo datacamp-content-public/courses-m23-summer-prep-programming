@@ -14,6 +14,11 @@ xp: 50
 True or False?
 A list can contain only integer items.
 
+
+
+Special debugging note:
+IF YOU HAVE A BUG OF 'SESSION HAS EXPIRED' OR 'SOMETHING WENT WRONG' PLEASE READ THIS [here](https://support.datacamp.com/hc/en-us/articles/360001526593-My-session-keeps-timing-out)
+
 `@possible_answers`
 - True
 - [False]
