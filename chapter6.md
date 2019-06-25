@@ -20,7 +20,7 @@ You are a the owner of the legendary “XX” car park. Some investors came in t
 Now find the following:
 1. How many cars weigh less than 2000kg?
 2. What is the percentage of cars out of the whole park that have 8 cylinders?
-3. What is the most expensive car?
+3. What is the most heavy car?
 
 `@hint`
 pd.read_csv("") can read csv files directly from the internet. 
