@@ -72,7 +72,7 @@ plt.plot(years, number_of_users)
 plt.title("Growth of the company between 2011 to 2019")
 plt.xlab("Year")
 plt.ylab("Number of users")
-plt.show()rr
+plt.show()
 ```
 
 `@sct`
