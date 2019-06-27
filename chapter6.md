@@ -57,7 +57,7 @@ cars_under_2000 =
 ```{python}
 import pandas as pd
 data = pd.read_csv("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/05_Merge/Auto_MPG/cars2.csv")
-cars_under_2000 = len(data[data.weight>2000])
+cars_under_2000 = len(data[data.weight<2000])
 ```
 
 `@sct`
