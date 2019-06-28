@@ -147,6 +147,5 @@ data = pd.read_csv("https://raw.githubusercontent.com/guipsamora/pandas_exercise
 
 `@sct`
 ```{python}
-Ex().check_object('pd').has_equal_value()
-Ex().check_object('data').has_equal_value()
+
 ```
