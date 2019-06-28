@@ -97,9 +97,6 @@ cars_under_2000 = len(data[data.weight<2000])
 
 `@sct`
 ```{python}
-Ex().check_object('pd').has_equal_value()
-Ex().check_object('data').has_equal_value()
-Ex().check_object('cars_under_2000').has_equal_value()
 
 ```
 
