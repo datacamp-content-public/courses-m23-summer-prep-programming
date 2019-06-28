@@ -32,7 +32,6 @@ Question: Academic Team found correlation between:
 - eating Bob's Donuts and cornerstone performance
 - watching narwhals and cornerstone performance
 - summer assessments and cornerstone performance
--
 
 `@feedback`
 
