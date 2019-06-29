@@ -16,14 +16,12 @@ Hello, the dearest class of 2023!
 Unfortunately, from now on the Datacamp will not be able to say whether you have submitted the correct answer:( It will accept any answer. We hope that you are honest (with yourself;) and it is best for you to do it as well as you can!
 We do encourage you to ask each other for feedback (and get to know your classmates better)!
 
-Honest confession (from Svitlana): I had 0 knowledge in programming before last summer too, and doing all the recommendations from previous Academic Team helped me A LOT during the first year. You will not regret doing it now and saving your time later.
-
 Lastly, if needed, we can take a look at it too. Feel free to approach Juraj, Akma, Pedro, or Svitlana in Slack.
 
 We hope you have a great summer and enjoy whatever you are doing right now!  [here](https://drive.google.com/drive/u/0/folders/0ABSyXGLltNH9Uk9PVA)
 
 <hr />
-Question: Academic Team found correlation between: 
+**Question: Academic Team found correlation between:**
 
 `@hint`
 
@@ -31,7 +29,7 @@ Question: Academic Team found correlation between:
 `@possible_answers`
 - eating Bob's Donuts and cornerstone performance
 - watching narwhals and cornerstone performance
-- summer assessments and cornerstone performance
+- [summer assessments and cornerstone performance]
 
 `@feedback`
 
