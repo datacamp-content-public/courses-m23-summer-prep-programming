@@ -206,7 +206,7 @@ xp: 100
 
 
 `@instructions`
-Sum up all the even numbers in a list.
+Sum up all the even numbers in a given list.
 
 `@hint`
 
@@ -218,7 +218,11 @@ Sum up all the even numbers in a list.
 
 `@sample_code`
 ```{python}
+my_list = [99,14,24,4,1,71,35,68,95,41,25,78,63,62,61,60]
+# your code 
 
+
+# print the sum
 ```
 
 `@solution`
