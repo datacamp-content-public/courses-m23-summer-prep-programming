@@ -147,7 +147,7 @@ print("The result of", 10, "squared is", squareResult)
 
 `@solution`
 ```{python}
-Notice that the variable runningtotal starts out with a value of 0. Next, the iteration is performed x times. Inside the for loop, the update occurs. runningtotal is reassigned a new value which is the old value plus the value of x.
+# Notice that the variable runningtotal starts out with a value of 0. Next, the iteration is performed x times. Inside the for loop, the update occurs. runningtotal is reassigned a new value which is the old value plus the value of x.
 ```
 
 `@sct`
