@@ -121,14 +121,14 @@ This [.csv file](https://doc-10-7s-docs.googleusercontent.com/docs/securesc/dm49
 `@sample_code`
 ```{python}
 #Note: This problem is hard and will likely require you to debug your code. Be mindful of the data type you are manipulating when accessing entries in the .csv file. The code snippet below prints every row of a .csv file contained in a given URL. The use of other modules is allowed only to import the .csv file, but the mean itself should not be computed using Python modules. 
->>> import csv, codecs
->>> from urllib.request import urlopen
->>> url = “url_string”
->>> response = urlopen(url)
+import csv, codecs
+from urllib.request import urlopen
+url = “url_string”
+response = urlopen(url)
 
->>> cr = csv.reader(codecs.iterdecode(response,'utf-8'))
->>> for row in cr:
->>>     print(row)
+cr = csv.reader(codecs.iterdecode(response,'utf-8'))
+for row in cr:
+    print(row)
 ```
 
 `@solution`
