@@ -70,8 +70,8 @@ plt.plot(years, number_of_users)
 
 # create labels and titles
 plt.title("Growth of the company between 2011 to 2019")
-plt.xlab("Year")
-plt.ylab("Number of users")
+plt.xlabel("Year")
+plt.ylabel("Number of users")
 plt.show()
 ```
 
