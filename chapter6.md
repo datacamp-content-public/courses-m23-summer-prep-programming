@@ -116,7 +116,7 @@ You work at the department that counts and records the baby names in a given yea
 `@instructions`
 Now find out the following: 
 
-1. Are there more male or female names in the dataset?
+1. Are there more male or female names in the dataset? Just print the numbers of female and male names. 
 2. What is the name with most occurrences?
 
 `@hint`
@@ -140,7 +140,7 @@ import pandas as pd
 import pandas as pd
 
 # Load csv file from the url into dataframe
-data = pd.read_csv("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/05_Merge/Auto_MPG/cars2.csv")
+data = pd.read_csv("https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/06_Stats/US_Baby_Names/US_Baby_Names_right.csv")
 ```
 
 `@sct`
