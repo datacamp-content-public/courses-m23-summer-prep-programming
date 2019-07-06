@@ -96,7 +96,8 @@ xp: 100
 Let's imagine you want to show gratitude to those who took care of you. You're now looking for a heart image online to print it out and glue it to your card. However, you can't find anything that looks good. That said, your job is create a heart graph that is absolutely pretty.
 
 `@hint`
-
+You can try to find some extra inspiration here [https://www.quora.com/What-is-the-equation-that-gives-you-a-heart-on-the-graph](https://www.quora.com/What-is-the-equation-that-gives-you-a-heart-on-the-graph)
+Find equation that you like and then make a plot.
 
 `@pre_exercise_code`
 ```{python}
