@@ -52,7 +52,7 @@ xp: 100
 
 
 `@instructions`
-Write a Python program that accepts a word from the user and reverse it.
+Write a Python program that prints variable `message` and then prints reversed version. Variable `message` is already loaded in console.
 
 example -> elpmaxe
 
@@ -61,12 +61,16 @@ example -> elpmaxe
 
 `@pre_exercise_code`
 ```{python}
-
+message = """
+Your undergraduate education needs to be as multidimensional as you are. It should challenge you academically, expose you to a diversity of global cultures, and enable you to develop the broad knowledge and practical skills needed to solve the most complex issues of our time.
+Minerva is intentionally designed to develop your intellect across multiple disciplines, as well as critical life skills, professional capabilities, and key aspects of your personal character.
+"""
 ```
 
 `@sample_code`
 ```{python}
-
+print(message)
+# reverse the message and print it
 ```
 
 `@solution`
