@@ -105,7 +105,7 @@ key: 3066ed4162
 xp: 100
 ```
 
-This [.csv file](https://doc-00-60-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/4tj25u0ffsbtr85m0ma336os4sff6m91/1564761600000/08552425112971249762/*/15UC8VgyWdHGHHFNg1gJ-2B7TCGhFihy7?e=download) contains the number of bikes that passed through Market Street in San Francisco each day in 2017. You should write a function bikes_to_mean() that downloads this data into your program and computes the average number of bikes that passed through Market Street daily in 2017. Your function should not receive arguments and should find the mean by iterating through the numbers in the second column of the file. You should check your result by comparing it to the mean returned by using the “mean” function in the statistics module. Ultimately, your function should return a tuple in the format (mean, boolean), in which boolean is a “True” or “False” value, depending on whether your mean matches the value obtained using the statistics module.
+This [.csv file](http://minervak.ga/sf_bike_data.csv) contains the number of bikes that passed through Market Street in San Francisco each day in 2017. You should write a function bikes_to_mean() that downloads this data into your program and computes the average number of bikes that passed through Market Street daily in 2017. Your function should not receive arguments and should find the mean by iterating through the numbers in the second column of the file. You should check your result by comparing it to the mean returned by using the “mean” function in the statistics module. Ultimately, your function should return a tuple in the format (mean, boolean), in which boolean is a “True” or “False” value, depending on whether your mean matches the value obtained using the statistics module.
 
 `@instructions`
 
@@ -123,7 +123,7 @@ If download link is not working, please message us on slack in #summer-prep-codi
 #Note: This problem is hard and will likely require you to debug your code. Be mindful of the data type you are manipulating when accessing entries in the .csv file. The code snippet below prints every row of a .csv file contained in a given URL. The use of other modules is allowed only to import the .csv file, but the mean itself should not be computed using Python modules. 
 import csv, codecs
 from urllib.request import urlopen
-url = “url_string”
+url = "http://minervak.ga/sf_bike_data.csv”
 response = urlopen(url)
 
 cr = csv.reader(codecs.iterdecode(response,'utf-8'))
