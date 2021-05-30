@@ -183,7 +183,7 @@ print("Final amount after 10 years:", year10)
 
 `@solution`
 ```{python}
-# Your code
+# Your code 
 
 P = 10000
 n = 12
