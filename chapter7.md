@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Matplotlib Exercises '
-description: ""
+description: ''
 ---
 
 ## 7.1. Plotting data

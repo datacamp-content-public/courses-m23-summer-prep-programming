@@ -1,6 +1,6 @@
 ---
 title: 'Loops Exercises '
-description: ""
+description: ''
 ---
 
 ## 10.1. ex.

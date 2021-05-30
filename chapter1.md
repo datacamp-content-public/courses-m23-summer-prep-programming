@@ -1,6 +1,8 @@
 ---
 title: 'Python Basics Exercises '
-description: 'After completing the ​Python Basics Assignment - please do the following exercises to check your understanding.'
+description: >-
+  After completing the ​Python Basics Assignment - please do the following
+  exercises to check your understanding.
 free_preview: true
 ---
 
@@ -90,7 +92,8 @@ type: NormalExercise
 key: e8c1edbe67
 lang: python
 xp: 100
-skills: 2
+skills:
+  - 2
 ```
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'ACCUMULATOR PATTERN Theory + Exercises '
-description: ""
+description: ''
 ---
 
 ## Global vs. Local variable

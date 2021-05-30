@@ -1,6 +1,6 @@
 ---
 title: 'FINISH: TRY OUT PRELIMINARY ASSESSMENT'
-description: 'Time to try whether you can tackle preliminary assessment 2019!'
+description: Time to try whether you can tackle preliminary assessment 2019!
 ---
 
 ## str_finder(lst)

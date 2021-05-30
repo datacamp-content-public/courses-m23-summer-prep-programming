@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started in Python Exercises '
-description: ""
+description: ''
 ---
 
 ## 5.1. Revising lists

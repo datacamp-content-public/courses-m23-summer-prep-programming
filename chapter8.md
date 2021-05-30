@@ -1,6 +1,6 @@
 ---
 title: 'Dictionaries and Pandas Exercises '
-description: ""
+description: ''
 ---
 
 ## 8.1. Python Documentation Experimentation

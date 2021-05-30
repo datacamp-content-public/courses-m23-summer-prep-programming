@@ -1,6 +1,6 @@
 ---
 title: 'Writing your own functions Exercises '
-description: ""
+description: ''
 ---
 
 ## 1. Summing up in list ex.
@@ -96,7 +96,7 @@ Write a function called myPi that will return an approximation of PI (3.14159…
 
 ```yaml
 type: NormalExercise
-key: 3462763919
+key: '3462763919'
 xp: 100
 ```
 

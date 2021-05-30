@@ -1,6 +1,6 @@
 ---
 title: 'Python Lists Exercises '
-description: ""
+description: ''
 ---
 
 ## 2.1. True/False m.c.

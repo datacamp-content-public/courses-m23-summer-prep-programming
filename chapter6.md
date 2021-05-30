@@ -1,6 +1,6 @@
 ---
 title: 'Loading Data in Pandas Exercises '
-description: ""
+description: ''
 ---
 
 ## Pre-ex.

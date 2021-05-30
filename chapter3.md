@@ -1,6 +1,6 @@
 ---
 title: 'Functions and Packages Exercises '
-description: ""
+description: ''
 ---
 
 ## 3.1. Lists len() m.c.
@@ -54,7 +54,7 @@ Ex().has_chosen(correct=2, msgs = [msg2, msg3, msg2])
 
 ```yaml
 type: NormalExercise
-key: 8179255388
+key: '8179255388'
 xp: 100
 ```
 

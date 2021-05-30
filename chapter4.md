@@ -1,6 +1,6 @@
 ---
 title: 'Numpy Exercises '
-description: ""
+description: ''
 ---
 
 ## 4.1. Searching for function ex.

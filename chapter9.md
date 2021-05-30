@@ -1,6 +1,6 @@
 ---
 title: 'Logic, Control Flow and Filtering Exercises '
-description: ""
+description: ''
 ---
 
 ## 9.1. Evaluating expressions ex.
